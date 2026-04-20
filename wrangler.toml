@@ -1,2 +1,2 @@
-main = "_worker.js"
+name = "am-cf-tunnel-sub"main = "_worker.js"
 compatibility_date = "2026-04-20"
